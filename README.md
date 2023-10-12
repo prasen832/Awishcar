@@ -39,6 +39,7 @@ The cells which are missing data need to be notified to the customer, figure out
 ### Parcel ID
 
 **The data in Parcel ID is changed to Date**
+
 **We assume that the parcel ID is a continuous alphanumeric number.**
 
 1. Write a function to convert the month name into the month number.
