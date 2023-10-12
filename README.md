@@ -91,9 +91,9 @@ The Location column has to be created using 4 columns Street1, Street2, City and
 
 ## To Run the Awishcar.ipynb file on Google Colab
 1. Download the file Awishcar.ipynb from Github as shown above.
-2. Open https://colab.research.google.com
-3. Sign in into Google account
-4. Upload the file Awishcar.ipynb
+2. Open https://colab.research.google.com 
+3. Sign in into Google account.
+4. Upload the file Awishcar.ipynb.
 5. Run the programe block by block to see the output.
 
 
