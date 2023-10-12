@@ -25,4 +25,25 @@ The cells which are missing data need to be notified to the customer, figure out
 
 ## Exploratory Data Analysis (EDA) and Data Cleaning
 
-### IMP NOTE: Wherever we saw -1 it represents Missing Value 
+### We are using Python (Jupyter Notebook) with Pandas, Numpy and ReGex for EDA and Data Cleaning.  
+
+### IMP NOTE: Wherever we saw -1 in the cleaned CSV file, it represents a Missing Value.
+
+### 1. Read The Google Sheet
+1. Read the Google Sheet as a CSV file using its sharing link.
+2. 
+
+### Parcel ID
+
+**The data in Parcel ID is changed to Date**
+
+1. 
+
+
+
+
+
+
+
+
+
