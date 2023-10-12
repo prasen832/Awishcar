@@ -2,11 +2,11 @@
 
 ## Problem Statements
 
-Column A has data which has been changed into date, figure out what should be the format of the data through adjacent cells		
-Column B, C, D and E represent the address and should be in proper format( 1st letter of the word should be CAPITAL)		
-Column F- there are iregular space in the between the  names		
-Column H&I should be stored as id , hence create the id of your own		
-Column J needs to be split into first name and last name		
+1. A has data which has been changed into date, figure out what should be the format of the data through adjacent cells		
+2. Column B, C, D and E represent the address and should be in proper format( 1st letter of the word should be CAPITAL)		
+3. Column F- there are iregular space in the between the  names		
+4. Column H&I should be stored as id , hence create the id of your own		
+5. Column J needs to be split into first name and last name		
 		
 Following are the target columns		
 Permit 	Please map these fields to the column in Sheet 1	
