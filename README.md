@@ -27,7 +27,7 @@ The cells which are missing data need to be notified to the customer, figure out
 
 We are using **Python (Jupyter Notebook)** with **Pandas, Numpy** and **ReGex** for **EDA** and **Data Cleaning.**  
 
-IMP NOTE: Wherever we saw **-1** in the **cleaned CSV file**, it represents **a Missing Value.**
+**IMP NOTE**: **Wherever** we saw **-1** in the **cleaned CSV file**, it represents **a Missing Value.**
 
 ### 1. Read The Google Sheet
 1. Read the Google Sheet as a CSV file using Pandas from its sharing link.
@@ -78,6 +78,15 @@ The Location has to be created using 4 columns Street1, Street2, City and St.
 
 1. Replace missing values with -1.
 
+### 8. Renaming the columns
+
+1. PermitNum as Permit
+2. Parcel_ID as Parcel Number
+3. Contractor_Name as'Bussiness Name
+4. Type_ID as B Type ID
+5. SubType_ID as B Use ID
+6. First_Name as Applicant First Name
+7. Last_Name as Applicant Last Name
 
 
 
