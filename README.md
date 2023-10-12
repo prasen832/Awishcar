@@ -78,15 +78,16 @@ The Location has to be created using 4 columns Street1, Street2, City and St.
 
 1. Replace missing values with -1.
 
-### 8. Renaming the columns
+### 8. Renaming the columns and Download the Cleaned CSV file
 
-1. PermitNum as Permit
-2. Parcel_ID as Parcel Number
-3. Contractor_Name as'Bussiness Name
-4. Type_ID as B Type ID
-5. SubType_ID as B Use ID
-6. First_Name as Applicant First Name
-7. Last_Name as Applicant Last Name
+1. Rename PermitNum as Permit
+2. Rename Parcel_ID as Parcel Number
+3. Rename Contractor_Name as Bussiness Name
+4. Rename Type_ID as B Type ID
+5. Rename SubType_ID as B Use ID
+6. Rename First_Name as Applicant First Name
+7. Rename Last_Name as Applicant Last Name
+8. Download the Cleaned CSV file to local computer.
 
 
 
