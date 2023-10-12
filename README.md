@@ -25,4 +25,4 @@ The cells which are missing data need to be notified to the customer, figure out
 
 ## Exploratory Data Analysis (EDA) and Data Cleaning
 
-#### Wherever we saw -1 it represents Missing Value 
+### IMP NOTE: Wherever we saw -1 it represents Missing Value 
