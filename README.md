@@ -25,9 +25,9 @@ The cells which are missing data need to be notified to the customer, figure out
 
 ## Exploratory Data Analysis (EDA) and Data Cleaning
 
-### We are using Python (Jupyter Notebook) with Pandas, Numpy and ReGex for EDA and Data Cleaning.  
+We are using **Python (Jupyter Notebook)** with **Pandas, Numpy** and **ReGex** for **EDA** and **Data Cleaning.**  
 
-### IMP NOTE: Wherever we saw -1 in the cleaned CSV file, it represents a Missing Value.
+IMP NOTE: Wherever we saw **-1** in the **cleaned CSV file**, it represents **a Missing Value.**
 
 ### 1. Read The Google Sheet
 1. Read the Google Sheet as a CSV file using Pandas from its sharing link.
@@ -52,7 +52,7 @@ The Location has to be created using 4 columns Street1, Street2, City and St.
 1. Replace NAN values with a blank in all 4 columns.
 2. Use title() function to make 1st letter of the word as CAPITAL.
 3. Join all 4 columns and name the new column as Location.
-4. In Location replace complete Missing address with -1.
+4. In Location, replace the complete Missing address with -1.
 5. Delete all 4 columns as we no longer need them.
 
 ### 4. Contractor_Name
