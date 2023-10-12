@@ -47,7 +47,7 @@ We are using **Python (Jupyter Notebook)** with **Pandas, Numpy** and **ReGex** 
 
 ### 3. Location
 
-The Location has to be created using 4 columns Street1, Street2, City and St.
+The Location column has to be created using 4 columns Street1, Street2, City and St.
 
 1. Replace NAN values with a blank in all 4 columns.
 2. Use title() function to make 1st letter of the word as CAPITAL.
@@ -89,6 +89,12 @@ The Location has to be created using 4 columns Street1, Street2, City and St.
 7. Rename Last_Name as Applicant Last Name
 8. Download the Cleaned CSV file to local computer.
 
+## To Run the Awishcar.ipynb file on Google Colab
+1. Download the file Awishcar.ipynb from Github as shown above.
+2. Open https://colab.research.google.com
+3. Sign in into Google account
+4. Upload the file Awishcar.ipynb
+5. Run the programe block by block to see the output.
 
 
 
