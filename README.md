@@ -30,14 +30,19 @@ The cells which are missing data need to be notified to the customer, figure out
 ### IMP NOTE: Wherever we saw -1 in the cleaned CSV file, it represents a Missing Value.
 
 ### 1. Read The Google Sheet
-1. Read the Google Sheet as a CSV file using its sharing link.
-2. 
-
+1. Read the Google Sheet as a CSV file using Pandas from its sharing link.
+2. Load it as a Pandas Dataframe.
+3. If required, save the CSV file to the Local Computer.
+4. Use the info() function to check the number of rows, number of columns, column names, number of null values and data types of all the columns.
+5. isnull().sum() function will give us the sum of all Null or NAN or Missing values column-wise.
+ 
 ### Parcel ID
 
 **The data in Parcel ID is changed to Date**
+**We assume that the parcel ID is a continuous alphanumeric number.**
 
-1. 
+1. Write a function to convert the month name into the month number.
+2. By assuming parcel ID as a continuous alphanumeric number remove the hyphen and get a continuous alphanumeric number as Parcel Number.
 
 
 
