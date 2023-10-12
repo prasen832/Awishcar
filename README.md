@@ -8,16 +8,17 @@
 4. Column H&I should be stored as id , hence create the id of your own		
 5. Column J needs to be split into first name and last name		
 		
-Following are the target columns		
-Permit 	Please map these fields to the column in Sheet 1	
-Parcel number		
-Location		
-Bussiness Name		
-B Type Id		
-B Use id		
-Applicant First Name		
-Applicant Last Name		
+#### Following are the target columns	
+Please map these fields to the column in Sheet 1
+1. Permit 	
+2. Parcel number		
+3. Location		
+4. Bussiness Name		
+5. B Type Id		
+6. B Use id		
+7. Applicant First Name		
+8. Applicant Last Name		
 		
-Figure if anyy pattern exists between Column G and remaing columns		
+Figure if any pattern exists between Column G and remaining columns		
 		
 The cells which are missing data need to be notified to the customer, figure out a way to give insight to the about missing data.
