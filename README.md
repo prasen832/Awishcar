@@ -52,7 +52,7 @@ The Location column has to be created using 4 columns Street1, Street2, City and
 1. Replace NAN values with a blank in all 4 columns.
 2. Use title() function to make 1st letter of the word as CAPITAL.
 3. Join all 4 columns and name the new column as Location.
-4. In Location, replace the complete Missing address with -1.
+4. Among Stree1, City and St, if any one of them is missing then replace the Location with -1.
 5. Delete all 4 columns as we no longer need them.
 
 ### 4. Contractor_Name
