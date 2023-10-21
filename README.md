@@ -96,7 +96,11 @@ The Location column has to be created using 4 columns Street1, Street2, City and
 4. Upload the file Awishcar.ipynb.
 5. Run the programe block by block to see the output.
 
-
+## Changes in new Updated file
+1. In Parcel Id the long for loop is replaced with a shorter nested for loop.
+2. In Location, earlier we were replacing it with -1 only when the full location was empty.
+3. Now among Stree1, City and St, if any one of them is missing then replace the Location with -1.
+4. In Last Name, in some cases 'Jr' appeared as it was their last name. It is also taken care of in the new code.
 
 
 
