@@ -52,7 +52,7 @@ The Location column has to be created using 4 columns Street1, Street2, City and
 1. Replace NAN values with a blank in all 4 columns.
 2. Use title() function to make 1st letter of the word as CAPITAL.
 3. Join all 4 columns and name the new column as Location.
-4. Among Stree1, City and St, if any one of them is missing then replace the Location with -1.
+4. Among Street1, City and St, if any one of them is missing then replace the Location with -1.
 5. Delete all 4 columns as we no longer need them.
 
 ### 4. Contractor_Name
@@ -99,7 +99,7 @@ The Location column has to be created using 4 columns Street1, Street2, City and
 ## Changes in new Updated file
 1. In Parcel Id the long for loop is replaced with a shorter nested for loop.
 2. In Location, earlier we were replacing it with -1 only when the full location was empty.
-3. Now among Stree1, City and St, if any one of them is missing then replace the Location with -1.
+3. Now among Street1, City and St, if any one of them is missing then replace the Location with -1.
 4. In Last Name, in some cases 'Jr' appeared as it was their last name. It is also taken care of in the new code.
 
 
