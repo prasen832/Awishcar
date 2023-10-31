@@ -120,3 +120,5 @@ Using this matrix we can very quickly find the pattern of missingness in the dat
 The heatmap shows the correlation of missingness between every 2 columns.
 
 ![h](Heatmap.png)
+
+### Now let us jump into Jupyter Notebook
