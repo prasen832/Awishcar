@@ -109,14 +109,14 @@ There are 3 best methods to plot Missing Data.
 ### Bar Chart 
 This bar chart gives you an idea of how many missing values are there in each column.
 
-![]()
+![bar](Bar.png)
 
 ### Matrix
 Using this matrix we can very quickly find the pattern of missingness in the dataset.
 
-![]()
+![m](Matrix.png)
 
 ### Heatmap
 The heatmap shows the correlation of missingness between every 2 columns.
 
-![]()
+![h](Heatmap.png)
