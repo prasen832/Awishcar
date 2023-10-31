@@ -102,5 +102,21 @@ The Location column has to be created using 4 columns Street1, Street2, City and
 3. Now among Street1, City and St, if any one of them is missing then replace the Location with -1.
 4. In Last Name, in some cases 'Jr' appeared as it was their last name. It is also taken care of in the new code.
 
+## Visual/Graphical Representation of Missing Data
 
+There are 3 best methods to plot Missing Data.
 
+### Bar Chart 
+This bar chart gives you an idea of how many missing values are there in each column.
+
+![]()
+
+### Matrix
+Using this matrix we can very quickly find the pattern of missingness in the dataset.
+
+![]()
+
+### Heatmap
+The heatmap shows the correlation of missingness between every 2 columns.
+
+![]()
